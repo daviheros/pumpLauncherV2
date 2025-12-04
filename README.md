@@ -5,8 +5,12 @@ PumpLaunch V2 is a production-ready control center for orchestrating Pump.fun la
 
 ### Console walkthrough
 
+GitHub does not inline video playback in README files, so click the preview below to download/play the MP4.
+
 <div align="center">
-  <video src="doc-assets/console_preview.mp4" controls title="PumpLaunch V2 console preview" style="max-width: 100%;"></video>
+  <a href="doc-assets/console_preview.mp4">
+    <img src="doc-assets/tradingHub_preview.png" alt="PumpLaunch V2 console preview" style="max-width: 100%;">
+  </a>
 </div>
 
 ### Screenshots
